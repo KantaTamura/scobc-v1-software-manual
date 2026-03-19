@@ -1,8 +1,8 @@
 = Overview
 
-== About This Document
+== About This Software Section
 
-This document describes the software for the SC-OBC Module V1 and how
+This section describes the software for the SC-OBC Module V1 and how
 it is organized across the device’s heterogeneous compute
 resources. Because the module includes multiple processor classes,
 each has its own section and build, boot, and validation guidance.
